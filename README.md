@@ -74,14 +74,13 @@ The dataset consists of 5 main tables: Transactions( >1million rows), Users, Car
 <h1 align="center">Recommendations </h1>
 
 ## User Segmentation
-
 - Develop tailored financial products for middle-aged Users (36-50) who show highest transaction volume ($197M) but have declining credit scores.
 - Create educational programs for young adults (18-25) to maintain their excellent credit scores (726 average) as they take on more financial responsibilities.
   - More research is needed to understand this age group has significantly less transactions then all other age groups.
 - Focus acquisition efforts on the 2,075 Users with no cards through targeted onboarding campaigns.
 - Design card offerings optimized for 3-4 cards, the preference shown by the most financially active Users.
 
-  ## Transactions
+## Transactions
 - Create location-specific promotions for areas with high transaction density but lower average values.
 - Focus on seamless payment systems for Money Transfer and Utilities that cater to fewer, high-value transactions.
 - Continue promoting Chip technology adoption given its popularity (821,407 transactions) and security benefits.
