@@ -30,7 +30,7 @@ The dataset consists of 5 main tables: Transactions( >1million rows), Users, Car
 
 <img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/cleaning_process.png>
 
-<img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/dataconnections.png width=1200>
+<img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/dataconnections.png width=300>
 
 ## Tools:
 - Data cleaning, preparation, analysis done in POWERQUERY & SQL.
