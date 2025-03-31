@@ -4,7 +4,7 @@ TABLEAU DASHBOARD ->
 
 <img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/BankDashboard1.png>
 
-<img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/BankDashboard2.png>
+<img src=[https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/BankDashboard2.png](https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/Bank_Dashboard2.png)>
 
 <img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/BankDashboard3.png>
 
