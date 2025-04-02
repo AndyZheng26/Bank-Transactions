@@ -1,6 +1,6 @@
 --- SQL CLEANING & ANALYSIS -> [ Bank_Transactions_SQL_Markdown ](https://github.com/AndyeliSays/Bank-Transactions/blob/main/bank_transactions_sql_markdown.md)
 
---- TABLEAU DASHBOARD ->
+--- TABLEAU DASHBOARD -> [ Bank_Transactions ](https://public.tableau.com/app/profile/andyeli/viz/Bank_Transactions/Overview)
 
 <img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/BankDashboard1.png>
 <img src=https://github.com/AndyeliSays/Bank-Transactions/blob/main/assets/Bank_Dashboard2.png>
