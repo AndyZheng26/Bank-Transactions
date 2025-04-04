@@ -10,7 +10,7 @@
 
 ## Introduction:
   
-This project transforms raw transaction data into actionable insights to make data-driven decisions for a Banking Instituion. The goal is to leverage banking transaction data to identify patterns, improve userservice, and detect potential fraud. By analyzing transaction patterns, user behaviors, and payment methods, we will pinpoint areas for improvement in banking processes.
+This project transforms raw transaction data into actionable insights to make data-driven decisions for a Banking Institution. The goal is to leverage banking transaction data to identify patterns, improve userservice, and detect potential fraud. By analyzing transaction patterns, user behaviors, and payment methods, we will pinpoint areas for improvement in banking processes.
 
 ## Business Task & Objectives: 
   
